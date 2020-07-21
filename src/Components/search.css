@@ -1,0 +1,19 @@
+.search {
+  width: 30vw;
+  height: 50px;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .search {
+        width: 50vw;
+        height: 30px;
+        border-radius: 5px;
+        margin-bottom: 5%;
+      }
+      
+      
+}
